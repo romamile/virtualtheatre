@@ -10,6 +10,18 @@
       "end": {"x":10.1, "y":0.1, "z":0.1}
     },
     {
+      "name": "Waypoint 1",
+      "type":"waypoint",
+      "role":"stagemanager",
+      "url":"#tst1"
+    },
+    {
+      "name": "Waypoint 2",
+      "type":"waypoint",
+      "role":"stagemanager",
+      "url":"#tst2"
+    },
+    {
       "name": "Scene 1",
       "type":"scene",
       "role":"stagemanager",
