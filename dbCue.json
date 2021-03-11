@@ -1,7 +1,7 @@
 {
   "listCue": [
     {
-      "name": "Animation 1",
+      "name": "Animation TEST",
       "type":"animation",
       "role":"stagemanager",
       "url":"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb",
