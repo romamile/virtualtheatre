@@ -6,7 +6,7 @@
       "role": "stagemanager",
       "url":  "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb",
       "animtype": "position",
-      "start": {"pos": {"x": 0.1, "y":0.1, "z":0.1}, "rot": {"x": 0.1, "y":0.1, "z":0.1}, "scale": {"x": 0.1, "y":0.1, "z":0.1}},
+      "start": {"pos": {"x": 0.1, "y":0.1, "z":0.1}, "rot": {"x": 0.1, "y":0.1, "z":0.1}, "scale": {"x": 1, "y":1, "z":1}},
       "begin": {"x":0.1, "y":0.1, "z":0.1},
       "end": {"x":10.1, "y":0.1, "z":0.1},
       "isLooping": true,
