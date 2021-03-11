@@ -1,5 +1,5 @@
 {
-  "azerty": {"name": "Roman"}, 
-  "qsdf":   {"name": "Jean"}, 
-  "wxcv":   {"name": "Charle"}
+  "azerty": {"name": "name1", "role": "stagemanager"}, 
+  "qsdf":   {"name": "name2", "role": "performer1"}, 
+  "wxcv":   {"name": "name3", "role": "performer2"}
  }
