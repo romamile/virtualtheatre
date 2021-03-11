@@ -37,25 +37,25 @@
       "name": "Avatar 1",
       "type":"avatar",
       "role":"stagemanager",
-      "url":"https://cdn.glitch.com/2a2ecdce-3c91-4a45-9bd8-1eb15b9a6c4e%2Favatar_1.glb?v=1615459453505"
+      "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_1.glb"
     },
     {
       "name": "Avatar 2",
       "type":"avatar",
       "role":"stagemanager",
-      "url":"https://cdn.glitch.com/2a2ecdce-3c91-4a45-9bd8-1eb15b9a6c4e%2Favatar_2.glb?v=1615459450500"
+      "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_2.glb"
     },
     {
       "name": "Avatar 3",
       "type":"avatar",
       "role":"performer1",
-      "url":"https://cdn.glitch.com/2a2ecdce-3c91-4a45-9bd8-1eb15b9a6c4e%2Favatar_3.glb?v=1615459444651"
+      "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_3.glb"
     },
     {
       "name": "Avatar 4",
       "type":"avatar",
       "role":"performer1",
-      "url":"https://cdn.glitch.com/2a2ecdce-3c91-4a45-9bd8-1eb15b9a6c4e%2Favatar_4.glb?v=1615459332062"
+      "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_4.glb"
     },
     {
       "name": "Props 1",
