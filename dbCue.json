@@ -2,12 +2,14 @@
   "listCue": [
     {
       "name": "Animation TEST",
-      "type":"animation",
-      "role":"stagemanager",
-      "url":"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb",
-      "mod":"position",
+      "type": "animation",
+      "role": "stagemanager",
+      "url":  "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb",
+      "type": "position",
       "start": {"x": 0.1, "y":0.1, "z":0.1},
-      "end": {"x":10.1, "y":0.1, "z":0.1}
+      "end": {"x":10.1, "y":0.1, "z":0.1},
+      "isLooping": true,
+      "duration": 1000
     },
     {
       "name": "Waypoint 1",
