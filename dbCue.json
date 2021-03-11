@@ -1,0 +1,55 @@
+{
+  "listCue": [
+    {
+      "name": "Animation 1",
+      "type":"animation",
+      "role":"stagemanager",
+      "url":"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb",
+      "mod":"position",
+      "start": {"x": 0.1, "y":0.1, "z":0.1},
+      "end": {"x":10.1, "y":0.1, "z":0.1}
+    },
+    {
+      "name": "Scene 1",
+      "type":"scene",
+      "role":"stagemanager",
+      "url":"https://chatmirror.com/scenes/n73MpaW/museum"
+    },
+    {
+      "name": "Scene 2",
+      "type":"scene",
+      "role":"stagemanager",
+      "url":"https://chatmirror.com/scenes/URHfwuh/ocean-jettison"
+    },
+    {
+      "name": "Avatar 1",
+      "type":"avatar",
+      "role":"stagemanager",
+      "url":"https://cdn.glitch.com/2a2ecdce-3c91-4a45-9bd8-1eb15b9a6c4e%2Favatar_1.glb?v=1615459453505"
+    },
+    {
+      "name": "Avatar 2",
+      "type":"avatar",
+      "role":"stagemanager",
+      "url":"https://cdn.glitch.com/2a2ecdce-3c91-4a45-9bd8-1eb15b9a6c4e%2Favatar_2.glb?v=1615459450500"
+    },
+    {
+      "name": "Avatar 3",
+      "type":"avatar",
+      "role":"performer1",
+      "url":"https://cdn.glitch.com/2a2ecdce-3c91-4a45-9bd8-1eb15b9a6c4e%2Favatar_3.glb?v=1615459444651"
+    },
+    {
+      "name": "Avatar 4",
+      "type":"avatar",
+      "role":"performer1",
+      "url":"https://cdn.glitch.com/2a2ecdce-3c91-4a45-9bd8-1eb15b9a6c4e%2Favatar_4.glb?v=1615459332062"
+    },
+    {
+      "name": "Props 1",
+      "type":"props",
+      "role":"performer2",
+      "url":"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb"
+    }
+  ]
+}
