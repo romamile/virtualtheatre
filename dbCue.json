@@ -12,13 +12,13 @@
     {
       "name": "Waypoint 1",
       "type":"waypoint",
-      "role":"stagemanager",
+      "role":"performer1",
       "url":"#tst1"
     },
     {
       "name": "Waypoint 2",
       "type":"waypoint",
-      "role":"stagemanager",
+      "role":"performer1",
       "url":"#tst2"
     },
     {
@@ -36,31 +36,31 @@
     {
       "name": "Avatar 1",
       "type":"avatar",
-      "role":"stagemanager",
+      "role":"performer1",
       "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_1.glb"
     },
     {
       "name": "Avatar 2",
       "type":"avatar",
-      "role":"stagemanager",
+      "role":"performer1",
       "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_2.glb"
     },
     {
       "name": "Avatar 3",
       "type":"avatar",
-      "role":"performer1",
+      "role":"performer2",
       "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_3.glb"
     },
     {
       "name": "Avatar 4",
       "type":"avatar",
-      "role":"performer1",
+      "role":"performer2",
       "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_4.glb"
     },
     {
       "name": "Props 1",
       "type":"props",
-      "role":"performer2",
+      "role":"performer1",
       "url":"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb"
     }
   ]
