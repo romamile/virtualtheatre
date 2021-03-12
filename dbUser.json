@@ -1,5 +1,6 @@
 {
   "romamile": {"name": "Roman", "role": "debug"}, 
+  "azerty":  {"name": "Crew", "role": "stagemanager"},
   "qsdf":   {"name": "name2", "role": "performer1"}, 
   "wxcv":   {"name": "name3", "role": "performer2"},
   "dave":  {"name": "David", "role": "stagemanager"},
