@@ -1,5 +1,9 @@
 {
   "azerty": {"name": "name1", "role": "stagemanager"}, 
   "qsdf":   {"name": "name2", "role": "performer1"}, 
-  "wxcv":   {"name": "name3", "role": "performer2"}
+  "wxcv":   {"name": "name3", "role": "performer2"},
+  "dave":  {"name": "David", "role": "stagemanager"},
+  "kevn": {"name": "Kevin", "role": "stagemanager"},
+  "alex": {"name": "Alex", "role": "stagemanager"},
+  "brnd": {"name": "Brendan", "role": "stagemanager"}
  }
