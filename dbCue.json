@@ -3,7 +3,7 @@
     {
       "name": "Animation TEST",
       "type": "animation",
-      "role": "stagemanager",
+      "role": "debug",
       "url":  "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb",
       "animtype": "position",
       "start": {"pos": {"x": 0.1, "y":0.1, "z":0.1}, "rot": {"x": 0.1, "y":0.1, "z":0.1}, "scale": {"x": 1, "y":1, "z":1}},
@@ -39,13 +39,13 @@
     {
       "name": "Waypoint 1",
       "type":"waypoint",
-      "role":"performer1",
+      "role":"debug",
       "url":"#tst1"
     },
     {
       "name": "Waypoint 2",
       "type":"waypoint",
-      "role":"performer1",
+      "role":"debug",
       "url":"#tst2"
     },
         {
@@ -69,38 +69,20 @@
     {
       "name": "Scene 1",
       "type":"scene",
-      "role":"stagemanager",
+      "role":"debug",
       "url":"https://chat-mirror-us-assets.chatmirror.com/files/76f7a72b-467b-4bf4-aca6-1a9b604d44ec.bin"
-    },
-    {
-      "name": "Scene 2",
-      "type":"scene",
-      "role":"stagemanager",
-      "url":"https://chat-mirror-us-assets.chatmirror.com/files/2dd43ad8-05a7-4135-b54e-fb95d6522f38.bin"
     },
     {
       "name": "Avatar 1",
       "type":"avatar",
-      "role":"performer1",
+      "role":"debug",
       "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_1.glb"
     },
     {
       "name": "Avatar 2",
       "type":"avatar",
-      "role":"performer1",
+      "role":"debug",
       "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_2.glb"
-    },
-    {
-      "name": "Avatar 3",
-      "type":"avatar",
-      "role":"performer2",
-      "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_3.glb"
-    },
-    {
-      "name": "Avatar 4",
-      "type":"avatar",
-      "role":"performer2",
-      "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_4.glb"
     },
     {
       "name": "Props 1",
