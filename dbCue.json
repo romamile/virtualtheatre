@@ -87,7 +87,7 @@
     {
       "name": "Props 1",
       "type":"props",
-      "role":"performer1",
+      "role":"debug",
       "url":"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb"
     }
   ]
