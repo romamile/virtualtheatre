@@ -8,6 +8,9 @@
   "brnd": {"name": "Brendan", "role": "stagemanager"},
   "ryan": {"name": "Ryan", "role":"jettison-ryan"},
   "ezra": {"name": "Ezra", "role":"jettison-ezra"},
+  "char": {"name": "Charlie", "role":"jettison-chaz"},
   "chaz": {"name": "Charlie", "role":"jettison-chaz"},
-  "buny": {"name": "Bunny", "role":"jettison-buny"}
+  "buny": {"name": "Bunny", "role":"jettison-bunny"},
+  "aud": {"name": "Audience"}
+
  }

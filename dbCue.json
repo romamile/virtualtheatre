@@ -48,24 +48,30 @@
       "role":"debug",
       "url":"#tst2"
     },
-        {
+    {
       "name": "Ryan Waypoint",
       "type":"waypoint",
       "role":"jettison-ryan",
       "url":"#ryan-wpt"
     },
-            {
+   {
       "name": "Ezra Waypoint",
       "type":"waypoint",
       "role":"jettison-ezra",
       "url":"#ezra-wpt"
     },
-            {
+    {
       "name": "Charlie Waypoint",
       "type":"waypoint",
       "role":"jettison-chaz",
       "url":"#chaz-wpt"
     },
+    {
+      "name": "Bunny Waypoint",
+      "type":"waypoint",
+      "role":"jettison-bunny",
+      "url":"#buny-wpt"
+    }, 
     {
       "name": "Scene 1",
       "type":"scene",
@@ -83,6 +89,35 @@
       "type":"avatar",
       "role":"debug",
       "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_2.glb"
+    },
+        {
+      "name": "Ryan",
+      "type":"avatar",
+      "role":"jettison-ryan",
+      "url":"https://xrtheater.live/avatars/ps8PVuK"
+    },
+        {
+      "name": "Charlie",
+      "type":"avatar",
+      "role":"jettison-chaz",
+      "url":"https://xrtheater.live/avatars/ZatzdFs"
+    },
+   {
+      "name": "Ezra",
+      "type":"avatar",
+      "role":"jettison-ezra",
+      "url":"https://xrtheater.live/avatars/EomhndE"
+    },
+       {
+      "name": "Bunny",
+      "type":"avatar",
+      "role":"jettison-bunny",
+      "url":"https://hubs.mozilla.com/avatars/kFCpJxa"
+    },
+    { "name": "Audience",
+      "type":"avatar",
+      "role":"audience",
+      "url":"https://drive.google.com/file/d/1H82liSFaku4NIHoasC-hWcD8Smxi-ldd/view?usp=sharing"
     },
     {
       "name": "Props 1",
