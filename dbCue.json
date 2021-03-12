@@ -48,6 +48,24 @@
       "role":"performer1",
       "url":"#tst2"
     },
+        {
+      "name": "Ryan Waypoint",
+      "type":"waypoint",
+      "role":"jettison-ryan",
+      "url":"#ryan-wpt"
+    },
+            {
+      "name": "Ezra Waypoint",
+      "type":"waypoint",
+      "role":"jettison-ezra",
+      "url":"#ezra-wpt"
+    },
+            {
+      "name": "Charlie Waypoint",
+      "type":"waypoint",
+      "role":"jettison-chaz",
+      "url":"#chaz-wpt"
+    },
     {
       "name": "Scene 1",
       "type":"scene",
