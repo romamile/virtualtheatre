@@ -154,6 +154,36 @@
       "type":"props",
       "role":"debug",
       "url":"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb"
+    },
+    { 
+      "name":"Robot Waypoint",
+      "type":"waypoint",
+      "role":"bikini-robt",
+      "url":"#robot"
+    },
+    { 
+      "name":"Bob Waypoint",
+      "type":"waypoint",
+      "role":"bikini-bob",
+      "url":"#bob"
+    },
+        { 
+      "name":"Patrick Waypoint",
+      "type":"waypoint",
+      "role":"bikini-pat",
+      "url":"#patrick"
+    },
+        { 
+      "name":"Narrator Waypoint",
+      "type":"waypoint",
+      "role":"bikini-narr",
+      "url":"#narrator"
+    },
+        { 
+      "name":"Jelly Waypoint",
+      "type":"waypoint",
+      "role":"bikini-jelly",
+      "url":"#jelly"
     }
   ]
 }
