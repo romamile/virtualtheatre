@@ -16,7 +16,7 @@
       "name": "Jettison Curtains",
       "type": "animation",
       "role": "stagemanager",
-      "url":"https://sketchfab.com/3d-models/scrim2-98ce9fa22d3042f9af3ddc9072d360ee",
+      "url":"https://xrtheater-assets.xrtheater.live/files/6f48857e-82c3-4096-91e7-0da58162317b.glb",
       "animtype": "position",
       "start": {"pos": {"x": 2, "y":7.5, "z":3.5}, "rot": {"x": 0, "y":201, "z":0}, "scale": {"x": 10, "y":6, "z":1}},
       "begin": {"x": 2, "y":7.5, "z":3.5},
@@ -141,13 +141,13 @@
       "name":"Kraken",
       "type":"props",
       "role":"stagemanager",
-      "url":"https://sketchfab.com/3d-models/the-kraken-55d900af1bfa460fb0f9304ab9fc594b"
+      "url":"https://xrtheater-assets.xrtheater.live/files/f62e0f5b-99cb-4efe-9913-2b2c89842f24.glb"
     },
     { 
       "name":"Tentacle",
       "type":"props",
       "role":"stagemanager",
-      "url":"https://sketchfab.com/3d-models/handpainted-tentacle-aab4b8198ac141f4907f89e7a89de8d4"
+      "url":"https://xrtheater-assets.xrtheater.live/files/38b6087d-4cfb-4267-8b09-e621b4f0079d.glb"
     },
     {
       "name": "Props 1",
