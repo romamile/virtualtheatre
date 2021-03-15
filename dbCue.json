@@ -30,9 +30,21 @@
       "role": "stagemanager",
       "url":  "https://uploads-prod.reticulum.io/files/567a2ec7-12e9-4d63-a1f5-74b1382ab1bb.glb?token=c94a940a87df186f8f1f326401ce5f06",
       "animtype": "position",
-      "start": {"pos": {"x": -1, "y":7.5, "z":3.5}, "rot": {"x": 0, "y":201, "z":0}, "scale": {"x": 0.1, "y":0.1, "z":0.1}},
-      "begin": {"x": -1, "y":5, "z":3.5},
-      "end": {"x": -1, "y":4, "z":3},
+      "start": {"pos": {"x": 6.5, "y":7.5, "z":2.5}, "rot": {"x": 0, "y":201, "z":0}, "scale": {"x": 0.1, "y":0.1, "z":0.1}},
+      "begin": {"x": 6.5, "y":5, "z":2.5},
+      "end": {"x": 6.5, "y":4, "z":2.5},
+      "isLooping": false,
+      "duration": 2000
+   },
+       {
+       "name": "Jettison Light 2",
+      "type": "animation",
+      "role": "stagemanager",
+      "url":  "https://uploads-prod.reticulum.io/files/567a2ec7-12e9-4d63-a1f5-74b1382ab1bb.glb?token=c94a940a87df186f8f1f326401ce5f06",
+      "animtype": "position",
+      "start": {"pos": {"x": 5, "y":7.5, "z":2.5}, "rot": {"x": 0, "y":201, "z":0}, "scale": {"x": 0.1, "y":0.1, "z":0.1}},
+      "begin": {"x": 5, "y":5, "z":2.5},
+      "end": {"x": 5, "y":4, "z":2.5},
       "isLooping": false,
       "duration": 2000
    },
@@ -72,6 +84,12 @@
       "role":"jettison-bunny",
       "url":"#buny"
     }, 
+    { 
+      "name":"Clem Waypoint",
+      "type":"waypoint",
+      "role":"strings-clem",
+      "url":"#clem"
+    },
     {
       "name": "Scene 1",
       "type":"scene",
@@ -91,30 +109,30 @@
       "url":"https://github.com/romamile/virtualtheatre/raw/main/avatar_2.glb"
     },
         {
-      "name": "Ryan",
+      "name": "Ryan Avatar",
       "type":"avatar",
       "role":"jettison-ryan",
       "url":"https://xrtheater.live/avatars/ps8PVuK"
     },
         {
-      "name": "Charlie",
+      "name": "Charlie Avatar",
       "type":"avatar",
       "role":"jettison-chaz",
       "url":"https://xrtheater.live/avatars/ZatzdFs"
     },
    {
-      "name": "Ezra",
+      "name": "Ezra Avatar",
       "type":"avatar",
       "role":"jettison-ezra",
       "url":"https://xrtheater.live/avatars/EomhndE"
     },
        {
-      "name": "Bunny",
+      "name": "Bunny Avatar",
       "type":"avatar",
       "role":"jettison-bunny",
       "url":"https://xrtheater.live/avatars/b9441oD"
     },
-    { "name": "Audience",
+    { "name": "Audience Avatar",
       "type":"avatar",
       "role":"audience",
       "url":"https://drive.google.com/file/d/1H82liSFaku4NIHoasC-hWcD8Smxi-ldd/view?usp=sharing"
@@ -125,17 +143,17 @@
       "role":"stagemanager",
       "url":"https://sketchfab.com/3d-models/the-kraken-55d900af1bfa460fb0f9304ab9fc594b"
     },
+    { 
+      "name":"Tentacle",
+      "type":"props",
+      "role":"stagemanager",
+      "url":"https://sketchfab.com/3d-models/handpainted-tentacle-aab4b8198ac141f4907f89e7a89de8d4"
+    },
     {
       "name": "Props 1",
       "type":"props",
       "role":"debug",
       "url":"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb"
-    },
-    {
-      "name": "Audio File",
-      "type": "props",
-      "role":"stagemanager",
-      "url":"https://drive.google.com/file/d/14xVYXng7U-x1UKfVQAImE5_fn4ZqW0zG/view?usp=sharing"
     }
   ]
 }

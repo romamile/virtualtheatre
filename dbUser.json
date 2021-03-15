@@ -13,6 +13,7 @@
   "char": {"name": "Charlie", "role":"jettison-chaz"},
   "chaz": {"name": "Charlie", "role":"jettison-chaz"},
   "buny": {"name": "Bunny", "role":"jettison-bunny"},
+  "clem":{"name":"Clemence","role":"strings-clem"},
   "aud": {"name": "Audience"}
 
  }
