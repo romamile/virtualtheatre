@@ -17,6 +17,7 @@
       "type": "animation",
       "role": "stagemanager",
       "url":"https://sketchfab.com/3d-models/scrim2-98ce9fa22d3042f9af3ddc9072d360ee",
+      //"url":  "https://sketchfab.com/3d-models/scrim-2818478d4abb4272b7f098bcc0266a32",
       "animtype": "position",
       "start": {"pos": {"x": 2, "y":7.5, "z":3.5}, "rot": {"x": 0, "y":201, "z":0}, "scale": {"x": 10, "y":6, "z":1}},
       "begin": {"x": 2, "y":7.5, "z":3.5},
