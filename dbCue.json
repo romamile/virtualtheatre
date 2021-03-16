@@ -154,6 +154,12 @@
       "type":"props",
       "role":"debug",
       "url":"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb"
+    },
+    { 
+      "name":"Jettison Light",
+      "type":"props",
+      "role":"stagemanager",
+      "url":  "https://xrtheater-assets.xrtheater.live/files/2acc1a73-429b-4895-b766-b28c954a39b2.glb"
     }
   ]
 }

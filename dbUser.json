@@ -2,8 +2,6 @@
   "romamile": {"name": "Roman", "role": "debug"}, 
   "azerty":  {"name": "Crew0", "role": "stagemanager"},
   "crew":  {"name": "Crew1", "role": "stagemanager"},
-  "qsdf":   {"name": "name2", "role": "performer1"}, 
-  "wxcv":   {"name": "name3", "role": "performer2"},
   "dave":  {"name": "David", "role": "stagemanager"},
   "kevn": {"name": "Kevin", "role": "stagemanager"},
   "alex": {"name": "Alex", "role": "stagemanager"},
@@ -13,14 +11,13 @@
   "char": {"name": "Charlie", "role":"jettison-chaz"},
   "chaz": {"name": "Charlie", "role":"jettison-chaz"},
   "buny": {"name": "Bunny", "role":"jettison-bunny"},
-  "clem":{"name":"Clemence","role":"strings-clem"},
+  "clem":{"name":"---","role":"strings-clem"},
    "ari":{"name":"Skippy","role":"stagemanager"},
-   "dash":{"name":"Cap'n Nobeard", "role":"stagemanager"},
-     "robt":{"name":"Robot","role":"bikini-robt"},
-  "bob":{"name":"Bob","role":"bikini-bob"},
-  "pat":{"name":"Patrick","role":"bikini-pat"},
+  "dash":{"name":"Cap'n Nobeard", "role":"stagemanager"},
+  "robt":{"name":"Robot","role":"bikini-robt"},
+   "bob":{"name":"Bob","role":"bikini-bob"},
+   "pat":{"name":"Patrick","role":"bikini-pat"},
   "narr":{"name":"Narrator","role":"bikini-narr"},
   "jell":{"name":"Jelly","role":"bikini-jelly"},
-  "aud": {"name": "Audience"}
-
+   "aud": {"name": "Audience"}
  }
