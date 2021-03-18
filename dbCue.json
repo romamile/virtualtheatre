@@ -27,7 +27,7 @@
     {
        "name": "Jettison Light 1",
       "type": "animation",
-      "role": "stagemanager",
+      "role": "debug",
       "url":  "https://xrtheater-assets.xrtheater.live/files/2acc1a73-429b-4895-b766-b28c954a39b2.glb",
       "animtype": "position",
       "start": {"pos": {"x": 6.5, "y":7.5, "z":2.5}, "rot": {"x": 0, "y":201, "z":0}, "scale": {"x": 0.05, "y":0.05, "z":0.05}},
@@ -39,7 +39,7 @@
        {
        "name": "Jettison Light 2",
       "type": "animation",
-      "role": "stagemanager",
+      "role": "debug",
       "url":  "https://xrtheater-assets.xrtheater.live/files/2acc1a73-429b-4895-b766-b28c954a39b2.glb",
       "animtype": "position",
       "start": {"pos": {"x": 5, "y":7.5, "z":2.5}, "rot": {"x": 0, "y":201, "z":0}, "scale": {"x": 0.05, "y":0.05, "z":0.05}},
@@ -150,6 +150,18 @@
       "url":"https://drive.google.com/file/d/1H82liSFaku4NIHoasC-hWcD8Smxi-ldd/view?usp=sharing"
     },
     { 
+      "name":"Jettison Light 1",
+      "type":"props",
+      "role":"stagemanager",
+      "url":  "https://xrtheater-assets.xrtheater.live/files/2acc1a73-429b-4895-b766-b28c954a39b2.glb"
+    },
+        { 
+      "name":"Jettison Light 2",
+      "type":"props",
+      "role":"stagemanager",
+      "url":  "https://xrtheater-assets.xrtheater.live/files/2acc1a73-429b-4895-b766-b28c954a39b2.glb"
+    },
+    { 
       "name":"Kraken Disc",
       "type":"props",
       "role":"stagemanager",
@@ -179,12 +191,6 @@
       "type":"props",
       "role":"debug",
       "url":"https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb"
-    },
-    { 
-      "name":"Jettison Light",
-      "type":"props",
-      "role":"stagemanager",
-      "url":  "https://xrtheater-assets.xrtheater.live/files/2acc1a73-429b-4895-b766-b28c954a39b2.glb"
     }
   ]
 }
