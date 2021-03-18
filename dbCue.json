@@ -15,7 +15,7 @@
     {     
       "name": "Jettison Curtains",
       "type": "animation",
-      "role": "stagemanager",
+      "role": "debug",
       "url":"https://xrtheater-assets.xrtheater.live/files/6f48857e-82c3-4096-91e7-0da58162317b.glb",
       "animtype": "position",
       "start": {"pos": {"x": 2.5, "y":7, "z":2.5}, "rot": {"x": 0, "y":0, "z":0}, "scale": {"x": 20, "y":9, "z":10}},
@@ -83,6 +83,18 @@
       "type":"waypoint",
       "role":"jettison-bunny",
       "url":"#buny"
+    }, 
+       {
+      "name": "Jettison Camera Waypoint",
+      "type":"waypoint",
+      "role":"jettison-camr",
+      "url":"#camr"
+    }, 
+           {
+      "name": "Jettison Ezra Voice Waypoint",
+      "type":"waypoint",
+      "role":"jettison-nican",
+      "url":"#ezra-voice"
     }, 
     { 
       "name":"Clem Waypoint",
