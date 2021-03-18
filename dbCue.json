@@ -150,17 +150,30 @@
       "url":"https://drive.google.com/file/d/1H82liSFaku4NIHoasC-hWcD8Smxi-ldd/view?usp=sharing"
     },
     { 
-      "name":"Kraken",
+      "name":"Kraken Disc",
       "type":"props",
       "role":"stagemanager",
       "url":"https://xrtheater-assets.xrtheater.live/files/f62e0f5b-99cb-4efe-9913-2b2c89842f24.glb"
     },
+ { 
+      "name":"Kraken No-disc",
+      "type":"props",
+      "role":"stagemanager",
+    "url":"https://xrtheater-assets.xrtheater.live/files/97b42fdf-e72c-47aa-bba1-5ab18b2453dd.glb"
+  },
     { 
-      "name":"Tentacle",
+      "name":"Tentacle Anim",
       "type":"props",
       "role":"stagemanager",
       "url":"https://xrtheater-assets.xrtheater.live/files/38b6087d-4cfb-4267-8b09-e621b4f0079d.glb"
     },
+    { 
+      "name":"Tentacle Still",
+      "type":"props",
+      "role":"stagemanager",
+      "url":"https://xrtheater-assets.xrtheater.live/files/87687a7b-165d-4086-afb5-c05be8a6e62b.glb"
+    },
+    
     {
       "name": "Props 1",
       "type":"props",
