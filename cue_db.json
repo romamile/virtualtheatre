@@ -1,0 +1,107 @@
+{
+  "listCue": [
+    {
+      "name": "Test_1",
+      "role": "test",
+      "target": { "type": "glb",
+                  "dest": "url",
+                  "src":  "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb"},
+      "action": {"type": "spawn_item",
+                 "pos": {"x": 0, "y":1.0, "z":0},
+                 "rot": {"x": 0, "y":1.57, "z":0},
+                 "scale": {"x": 1.2, "y":1.2, "z":1.2}},
+      "trig": {"type": "button",
+               "time": 0}
+    },
+    {
+      "name": "Test_2",
+      "role": "test",
+      "target": { "type": "video",
+                  "dest": "url",
+                  "src":  "https://romamile.github.io/sp_repo/w4a2-v03.mp4"},
+      "action": { "type": "spawn_item",
+                  "pos": {"x": 1.3, "y":1.82, "z":1.85},
+                  "rot": {"x": 0, "y":-1.57, "z":0},
+                  "scale": {"x": 1.67, "y":1.67, "z":1.67},
+                  "volume":0.9,
+                  "distanceModel": "linear",
+                  "rolloffFactor":1,
+                  "refDistance":5,
+                  "maxDistance":10},
+      "trig": {"type": "button",
+               "time": 0}
+    },
+    {
+      "name": "Test_3",
+      "role": "test",
+      "target": { "type": "glb",
+                  "dest": "url",
+                  "src":  "https://xrtheater-assets.xrtheater.live/files/2acc1a73-429b-4895-b766-b28c954a39b2.glb"},
+      "action": {"type": "spawn_prop",
+                 "rot": {"x": 0, "y":1.57, "z":0},
+                 "scale": {"x": 1.2, "y":1.2, "z":1.2}},
+      "trig": {"type": "button",
+               "time": 0}
+    },
+    {
+      "name": "Test_4",
+      "role": "test",
+      "target": { "type": "glb",
+                  "src": "Test_2"},
+      "action": {"type": "delete"},
+      "trig": {"type": "button",
+               "time": 0}
+    },
+    {
+      "name": "Test_5",
+      "role": "test",
+      "target": { "type": "glb",
+                  "dest": "local",
+                  "src": "Test_1"},
+      "action": {"type": "move",
+                 "duration": 2000,
+                 "loop": true,
+                 "pos": {"x": 3, "y":3, "z":3},
+                 "rot": {"x": 0, "y":39.785, "z":0},
+                 "scale": {"x": 2, "y":2, "z":2}},
+      "trig": {"type": "button",
+               "time": 0}
+    },
+    {
+      "name": "Test_6",
+      "role": "test",
+      "target": { },
+      "action": {"type": "jump_to_waypoint",
+                 "anchor":"#SHWaypoint"},
+      "trig": {"type": "button",
+               "time": 0}
+    },
+    {
+      "name": "Test_7",
+      "role":"test",
+      "target": { },
+      "action": {"type": "change_scene",
+                 "link":"https://chat-mirror-us-assets.chatmirror.com/files/76f7a72b-467b-4bf4-aca6-1a9b604d44ec.bin"},
+      "trig": {"type": "button",
+               "time": 0}
+    },
+    {
+      "name": "Test_8",
+      "role":"test",
+      "target": { },
+      "action": {"type": "change_avatar",
+                 "link":"https://github.com/romamile/virtualtheatre/raw/main/avatar_1.glb"},
+      "trig": {"type": "button",
+               "time": 0}
+    },
+    {
+      "name": "Test_9",
+      "role":"test",
+      "target": { "src": "https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png",
+                  "dest": "https://www.mozilla.com"},
+      "action": {"type": "ui_popin"},
+      "trig": {"type": "button",
+               "time": 0}
+    }
+  ]
+}
